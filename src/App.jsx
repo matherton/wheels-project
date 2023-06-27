@@ -1,7 +1,7 @@
 import { useState } from "react";
 // import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-import ewpLogo from "./assets/EWP-400x400.jpeg";
+//import viteLogo from "/vite.svg";
+import ewpLogo from "./assets/ewp-cutout.jpeg";
 import "./App.css";
 
 function App() {
