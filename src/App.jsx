@@ -13,7 +13,7 @@ function App() {
       <a href="https://twitter.com/EdinburghWheels" target="_blank">
         <img src={ewpLogo} alt="Edinburgh Wheels Project" />
       </a>
-      <h1>Edinburgh Wheels Project</h1>
+      <h1 style={{ marginBottom: 0 }}>Edinburgh Wheels Project</h1>
 
       <div style={{ borderTop: "0.5rem solid blanchedalmond" }}>
         <img src={wheel} className="wheel" alt="" />
